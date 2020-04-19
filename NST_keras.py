@@ -195,10 +195,10 @@ for i in range(iterations):
     print('Current loss value:', min_val)
     # save generated image
     img = deprocess_image(x.copy())
-    fname = result_name + '_iteration_%d.png' % (i+1)
+    fname ='iteration_%d.png' % (i+1)
     save_img(fname, img)
     end_time = time.time()
     print('Image saved as', fname)
     print('Iteration %d completed in %ds' % ((i+1), end_time - start_time))
 
-save_img(result_name+'_final.png',img)		
+save_img(result_name+'.png',img)		

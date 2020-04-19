@@ -6,4 +6,4 @@ The hyperparameters are tuned for this given problem statement
 
 The Python code consists of appropriate comments to understand the flow of the implementation
 
-The final resultant image is stored in "japanese_garden_by_picasso_final.png"
+The final resultant image is stored in "japanese_garden_by_picasso.png"

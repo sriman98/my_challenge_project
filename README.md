@@ -2,7 +2,7 @@ Problem Statement:- To Implement neural Style transfer to get the image content 
 
 The Python file "NST_keras.py" consists of the Keras implementation of the Neural Style Transfer problem
 
-The hyperparameters are tuned for this given problem statement
+The hyperparameters in the given code are tuned for this given problem statement
 
 The Python code consists of appropriate comments to understand the flow of the implementation
 

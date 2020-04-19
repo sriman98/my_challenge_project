@@ -4,6 +4,6 @@ The Python file "NST_keras.py" consists of the Keras implementation of the Neura
 
 The hyperparameters are tuned for this given problem statement
 
-The code consists of appropriate comments to understand the flow of the implementation
+The Python code consists of appropriate comments to understand the flow of the implementation
 
 The final resultant image is stored in "japanese_garden_by_picasso_final.png"

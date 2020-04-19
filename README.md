@@ -1,6 +1,6 @@
 Problem Statement:- To Implement neural Style transfer to get the image content of "japanese_garden.jpg" and style of "picasso_selfportrait.jpg" into a single image 
 
-The Python file "NST_keras.py" consists of the Keras implementation of the Neural Style Transfer problem
+The Jupyter Notebook file "NST_keras.ipnyb" consists of the Keras implementation of the Neural Style Transfer problem
 
 The hyperparameters in the given code are tuned for this given problem statement
 
